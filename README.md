@@ -1,2 +1,2 @@
 # project1
-Learnign Get 
+Learnign Git 
